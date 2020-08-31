@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1dntps7mM2Zd5CCEfMsT4RKpF6x9VJVgL/view
 
 During the walkthrough there is an error that occured when adding a product to the database in Insomnia but the reason it occured was because there was no category id and because in the request a deleted product tag tried to be assigned to the new product but it successfully works as shown in the screenshot below
     
-[![IMAGE ALT TEXT](./img/create-product.PNG)]
+![IMAGE ALT TEXT](./img/create-product.PNG)
 
 ## License
 
